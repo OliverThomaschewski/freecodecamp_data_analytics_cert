@@ -1,3 +1,3 @@
 # Demographic Data Analyzer
 
-The challenges was to analyze demographic data using pandas.
+The assignment was to analyze demographic data using pandas.
